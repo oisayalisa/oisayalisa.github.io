@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.container {
+    position: relative;
+    background-repeat: no-repeat;
+
+}
+.text-secondary { color: #18191a; }
+.text-secondary {font-size: 22px;}
+.text-black {font-size: 42px;}
